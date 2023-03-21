@@ -1,0 +1,5 @@
+NON USED CODE
+
+# Calculate relative frequencies for each variable, by category in target variable
+for i in range(1,7):
+    print(pd.crosstab(satisfaction.iloc[:,i],satisfaction['Y'] , normalize='columns'),"\n")
