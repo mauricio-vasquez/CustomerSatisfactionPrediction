@@ -1,4 +1,4 @@
-# Welcome to my Customer Satisfaction Prediction project!
+# Welcome to my customer satisfaction prediction project!
 This project was requested by a startup in the logistics and delivery domain (hereinafter, "the company"), through [Apziva](https://www.apziva.com/)´s AI Residency program.
 
 ## Project goal and usefulness
