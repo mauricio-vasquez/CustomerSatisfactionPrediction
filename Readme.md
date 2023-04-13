@@ -10,11 +10,11 @@ This project was requested by a startup in the logistics and delivery domain (he
 2. *Beginner quantitative marketing analysts or beginner data scientists:* By guiding them on how data analytics can be used to get valuable insights from customer satisfaction surveys. Also, it may enlight them on how a complete Data Science project would look like.  
 
 ## Methods Used
-* Crisp-DM methodology
-* Data visualization with Seaborn
+* Crisp-DM methodology.
+* Data visualization with Seaborn.
 * Classification models: Logistics regression, Random Forest and SVM.
-* GridSearchCV & cross validation
-* Feature importance
+* GridSearchCV & K-fold cross validation.
+* Feature importance.
 
 ## Tools
 Python and Jupyter were used for this project.
