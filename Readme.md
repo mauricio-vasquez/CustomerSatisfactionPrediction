@@ -3,6 +3,7 @@ This project was requested by a startup in the logistics and delivery domain (he
 
 ## Project goal and usefulness
 **Main goal:** Uncover what factors drive customer (un)satisfaction, using data from surveys and ML models.
+
 **Usefulness:** This project is intended to benefit 2 groups of people: 
 
 1. *The company:* By uncovering actionable insights from their customer satisfaction surveys. 
